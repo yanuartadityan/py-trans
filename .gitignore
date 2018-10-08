@@ -1,2 +1,3 @@
 # exclude
-.vscode
+/.vscode
+/__pycache__
